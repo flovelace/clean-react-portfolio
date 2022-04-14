@@ -1,8 +1,8 @@
 import Contact from '@/components/Contact';
-import Head from 'Next/head';
+import Head from 'next/head';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
-import Stack from '@/components/Contact';
+import Stack from '@/components/Stack';
 import { meta } from '@/data/config';
 
 export default function Index() {
