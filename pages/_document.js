@@ -19,8 +19,9 @@ export default class MyDocument extends Document {
                         rel='icon'
                         type='image/png'
                         sizes='16x16'
-                        href='/stat/favicon/favicon-16x16.png'
-                    />    
+                        href='/static/favicon/favicon-16x16.png'
+                    />
+                    <link rel="manifest" href="/static/favicon/site.webmanifest" />    
                 </Head>
                 <body>
                     <Main />
