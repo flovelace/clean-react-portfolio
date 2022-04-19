@@ -1,5 +1,5 @@
 export const meta = {
-    title: 'Chris Lightfellow - Full Stack Web Developer',
+    title: 'Chris L. - Full Stack Web Developer',
     description: 'Hey, I\'m Chris. I\'m a full stack developer, and a retired knight.'
 };
 
@@ -16,13 +16,13 @@ export const projects = {
             title: 'Knight Meet-Up',
             description: 'A meet up site for knights',
             link: 'https://www.fakewebsite.net/knightmeetup/',
-            github: 'http://clightfellow.github.io/'
+            github: 'http://chrisknighteternal.github.io/'
         },
         {
             title: 'Sword Fight Table',
             description: 'Practise sword fighting!',
             link: 'https://fakewebsite.net/swordfight/',
-            github: 'http://clightfellow.github.io/'
+            github: 'http://chrisknighteternal.github.io/'
         },
         {
             title: 'Chrissy Land',
@@ -51,5 +51,5 @@ export const contact = {
     title: 'Contact Chris',
     email: 'chris@unknightly.com',
     github: 'chrisknighteternal',
-    linkedin: 'christine-a-lightfellow'
+    linkedin: 'christine-a-lf'
 };
