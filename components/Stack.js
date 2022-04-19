@@ -4,7 +4,7 @@ export default function Stack() {
     return (
         <div>
             <div className='overflow-x-hidden w-full'>
-                <h2 className='landingSectionTitle max-w-max mx-0 text-left realtive mb-4 md:w-max '>
+                <h2 className='landingSectionTitle max-w-max mx-0 text-left relative mb-4 md:w-max '>
                     {stack.title}
                 </h2>
             </div>

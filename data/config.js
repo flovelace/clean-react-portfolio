@@ -15,7 +15,7 @@ export const projects = {
         {
             title: 'Knight Meet-Up',
             description: 'A meet up site for knights',
-            link: 'https://www.fakewebsite.net/knightmeetup/',
+            link: 'https://www.fakewebsite.net/knightmeet/',
             github: 'http://chrisknighteternal.github.io/'
         },
         {
