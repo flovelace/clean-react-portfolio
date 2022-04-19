@@ -13,28 +13,28 @@ export const projects = {
     desc: "Would you like to see some of my projects?",
     projects: [
         {
-            title: 'Fake Website',
-            description: 'A fake website I made',
-            link: 'https://',
-            github: ''
+            title: 'Knight Meet-Up',
+            description: 'A meet up site for knights',
+            link: 'https://www.fakewebsite.net/knightmeetup/',
+            github: 'http://clightfellow.github.io/'
         },
         {
-            title: 'Fake App',
-            description: 'A fake app',
-            link: 'https://',
-            github: ''
+            title: 'Sword Fight Table',
+            description: 'Practise sword fighting!',
+            link: 'https://fakewebsite.net/swordfight/',
+            github: 'http://clightfellow.github.io/'
         },
         {
-            title: 'Fake App 2',
-            description: 'A 2nd fake app',
-            link: 'https://',
-            github: ''
+            title: 'Chrissy Land',
+            description: 'A tantalising portfolio site with a clean layout',
+            link: 'https://clean-react-portfolio.vercel.app/',
+            github: 'https://github.com/flovelace/clean-react-portfolio'
         }
     ]
 };
 
 export const stack = {
-    title: 'Chris Dev Stack',
+    title: 'Chris\'s Dev Stack',
     stack: [
         'HTML5',
         'CSS3',
@@ -42,7 +42,8 @@ export const stack = {
         'React',
         'NextJS',
         'MongoDB',
-        'SQL'
+        'SQL',
+        'Python'
     ]
 };
 
