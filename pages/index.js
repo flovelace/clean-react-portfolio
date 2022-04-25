@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 import Stack from '@/components/Stack';
+import Footer from '@/components/Footer';
 import { meta } from '@/data/config';
 
 export default function Index() {
@@ -17,6 +18,7 @@ export default function Index() {
           <Projects />
           <Stack />
           <Contact />
+          <Footer />
         </div>
       </div>
     </>
